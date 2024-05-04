@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobmandy" alt="noobmandy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/maanasanand2000" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/maanasanand2000?logo=twitter&style=for-the-badge" alt="https://twitter.com/maanasanand2000" /></a> </p>
+
 
 - 🔭 I’m currently working [at](Zycus)
 
