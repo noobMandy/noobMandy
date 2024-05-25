@@ -7,7 +7,6 @@
 
 
 
-- 🔭 I’m currently working at Zycus
 
 - 🌱 I’m currently learning **NextJs,DevOps**
 
